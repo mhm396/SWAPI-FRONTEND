@@ -2,7 +2,7 @@
   <nav class="bg-gray-800 p-4 w-full top-0 left-0 z-50">
     <ul class="flex justify-evenly  w-full">
       <li class="text-white text-lg hover:text-purple-400">
-        <NuxtLink to="/" active-class="active">Home</NuxtLink>
+        <NuxtLink to="/" active-class="active">Inicio</NuxtLink>
       </li>
       <li class="text-white text-lg hover:text-purple-400">
         <NuxtLink to="/starships" active-class="active">Naves</NuxtLink>
